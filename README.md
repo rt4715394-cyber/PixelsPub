@@ -22,7 +22,7 @@ Pixels needs **WRITE_SECURE_SETTINGS** permission in order to work (this is NOT 
 ----------------------
 
 Granting Permission using a PC:
-----------------------
+----------------------adb shell /data/app/~~HgCB7knyUh54xOHIjNM2Og==/moe.shizuku.privileged.api-wAqOlPSPJ8GL9bNa2BloSw==/lib/arm64/libshizuku.so
 
 <details>
 
